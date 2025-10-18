@@ -1,22 +1,24 @@
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpkOTVoOXUxNXRheTcwMHF6cmhnb3d0cXZqbWV0MHVtbGhlbHdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="display: block; margin-left: auto; margin-right: auto;" />
+
 ## Hi awesome people 👋
 
-My name is Mariann, and I'm currently a software development student with a strong interest in coding, web development, and learning new technologies. I'm passionate about building real-world projects and continuously improving my skills.
-
-- 🌱 I’m currently learning: JavaScript, C#, Java, Typescript, Angular, Spring Boot and version control with Git. My goal is to become a confident full-stack developer.
-- 📫 How to reach me: mariannadelbert@gmail.com or on LinkedIn: https://www.linkedin.com/in/mariannadelbert/
-- ⚡ Fun fact: I've played basketball for over 15 years — teamwork, persistence, and discipline from the court now help me in my coding journey!
-
-<!--
-**MariannAdelbert/MariannAdelbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const mariann = {
+  pronouns: "she" | "her",
+  status: "Software development student",
+  interests: ["web development", "full-stack projects", "tech for good"],
+  languages: ["JavaScript", "TypeScript", "C#", "Java"],
+  tools: ["Angular", "Spring Boot", "Git", "Node.js", "HTML", "CSS"],
+  learning: [
+    "Full-stack development",
+    "Modern frontend frameworks",
+    "Clean code practices",
+    "Testing"
+  ],
+  funFact: "I've played basketball for over 15 years — the teamwork and discipline help me in coding too!",
+  contact: {
+    email: "mariannadelbert@gmail.com",
+    linkedin: "https://www.linkedin.com/in/mariannadelbert/"
+  },
+  goal: "Becoming a confident and creative full-stack developer 🚀"
+}
