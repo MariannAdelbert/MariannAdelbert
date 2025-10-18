@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi awesome people 👋
 
 My name is Mariann, and I'm currently a software development student with a strong interest in coding, web development, and learning new technologies. I'm passionate about building real-world projects and continuously improving my skills.
 
