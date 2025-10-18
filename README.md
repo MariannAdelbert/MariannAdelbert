@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Mariann, and I'm currently a software development student with a strong interest in coding, web development, and learning new technologies. I'm passionate about building real-world projects and continuously improving my skills.
+
+- 🌱 I’m currently learning: JavaScript, C#, Java, Typescript, Angular, Spring Boot and version control with Git. My goal is to become a confident full-stack developer.
+- 📫 How to reach me: mariannadelbert@gmail.com or on LinkedIn: https://www.linkedin.com/in/mariannadelbert/
+- ⚡ Fun fact: I've played basketball for over 15 years — teamwork, persistence, and discipline from the court now help me in my coding journey!
+
 <!--
 **MariannAdelbert/MariannAdelbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
